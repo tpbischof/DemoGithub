@@ -24,6 +24,3 @@ print(Person.fullname(p))
 
 r = requests.get("https://google.de")
 print(r.status_code)
-
-i = input("Please enter your name: ")
-print("Hello,", i)
